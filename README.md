@@ -25,7 +25,7 @@ src/
  │    │    └── com/
  │    │         └── seu_pacote/
  │    │              ├── controller/
- │    │              ├── model/
+ │    │              ├── entity/
  │    │              ├── repository/
  │    │              └── service/
  │    └── resources/
@@ -57,8 +57,8 @@ Para configurar o banco de dados MySQL, siga os passos abaixo:
 
 1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/seu_usuario/seu_repositorio.git
-   cd seu_repositorio
+   git clone https://github.com/flaviojuniordev/USER-CRUD-SPRINGBOOT.git
+   cd USER-CRUD-SPRINGBOOT
    ```
 
 2. **Execute a aplicação**:
